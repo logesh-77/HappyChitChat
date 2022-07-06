@@ -10,4 +10,7 @@ learned
   git add
   git commit -m ""
   git push
+  git pull
+  git log
+  git status
   
